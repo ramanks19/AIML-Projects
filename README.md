@@ -7,4 +7,4 @@ $ git clone https://github.com/ramanks19/AIML-Projects.git
 $ cd AIML-Projects
 
 # Projects Done
-1. Statistical Learning
+* 1. Statistical Learning
