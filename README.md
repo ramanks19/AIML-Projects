@@ -27,3 +27,16 @@ $ cd AIML-Projects
         * ***[Performance of Logistic Regression](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)***
         * ***[Performance of KNN Classification](https://github.com/ramanks19/AIML-Projects/blob/main/02.%20Supervised%20Machine%20Learning/images/2.%20KNN.png)***
         * ***[Performance of Naive Bayes Classification](https://github.com/ramanks19/AIML-Projects/blob/main/02.%20Supervised%20Machine%20Learning/images/3.%20Naive%20Bayes.png)***
+
+**3. Ensemble Techniques**
+   - Covers EDA, Logistic Regression, KNN Classifiers, SVM Classifiers, Naive Bayes, Ensemble, Decision Trees, Bagging
+      - **Project link:** [Ensemble Techniques](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/Project%203%20-%20Ensemble%20Learning_Medical.ipynb)
+         - Involved using classification algorithms and Ensemble techniques to diagnose Parkinson’s Disease (PD) using the patient voice recording data. Various models were used including Naive Bayes, Logistic Regression, SVM, Decision Tree, Bagging etc. and comparison of accuracy across these models was done to finalise the model for prediction.
+        
+        * ***[Logistic Regression](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/1.%20Logistic%20Regression.png)***
+        * ***[KNN Classifiers - Tunned Parameters](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/2.%20KNN.png)***
+		* ***[Naive Bayes Classifiers] (https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/3.%20Naive%20Bayes.png)*** 
+		* ***[SVM Classifiers - Tunned Parameters](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/4.%20SVM.png)***
+		* ***[Ensemble Classifiers](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/5.%20Ensemble.png)***
+        * ***[Decision Tree Classifiers - With Pruning](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/6.%20Decision%20Trees.png)***
+		* ***[Bagging - Tunned Parameters](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/7.%20Bagging.png)***
