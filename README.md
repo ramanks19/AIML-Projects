@@ -18,3 +18,12 @@ $ cd AIML-Projects
          * ***[Does bmi of males differ significantly from that of females](https://github.com/ramanks19/AIMLProjects/blob/main/01.%20Applied%20Statistics/images/2.%20bmi%20of%20males%20differ%20significantly%20from%20that%20of%20females.png)***
          * ***[Is the proportion of smokers significantly different in different genders](https://github.com/ramanks19/AIMLProjects/blob/main/01.%20Applied%20Statistics/images/3.%20proportion%20of%20smokers%20significantly%20different%20in%20different%20genders.png)***
          * ***[Is the distribution of bmi across women with no children, one child and two children, the same](https://github.com/ramanks19/AIMLProjects/blob/main/01.%20Applied%20Statistics/images/4.%20distribution%20of%20bmi%20across%20women%20with%20no%20children%2C%20one%20child%20and%20two%20children%2C%20the%20same.png)***
+
+**2. Supervised Machine Learning**
+   - Covers Logistic Regression, Naive Bayes Classifiers and K-NN Classification
+      - **Project link:** [Supervised Machine Learning](https://github.com/ramanks19/AIML-Projects/blob/main/02.%20Supervised%20Machine%20Learning/Project%202%20-%20Supervised%20Learning_Banking.ipynb)
+        - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
+        
+        * ***[Performance of Logistic Regression](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)***
+        * ***[Performance of KNN Classification](https://github.com/ramanks19/AIML-Projects/blob/main/02.%20Supervised%20Machine%20Learning/images/2.%20KNN.png)***
+        * ***[Performance of Naive Bayes Classification](https://github.com/ramanks19/AIML-Projects/blob/main/02.%20Supervised%20Machine%20Learning/images/3.%20Naive%20Bayes.png)***
