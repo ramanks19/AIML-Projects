@@ -5,3 +5,6 @@ Projects which were completed as part of assignments of Great Learning's PGP in 
 $ git clone https://github.com/ramanks19/AIML-Projects.git
 
 $ cd AIML-Projects
+
+# Projects Done
+1. Statistical Learning
