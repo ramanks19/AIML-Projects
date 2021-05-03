@@ -27,3 +27,8 @@ $ cd AIML-Projects
    - Covers Support Vector Machines, Principal Component Analysis, Classification
       - **Project link:** [Unsupervised Learning](https://github.com/ramanks19/AIML-Projects/blob/main/04.%20Unsupervised%20Machine%20Learning/Project%204%20-%20Unsupervised%20Learning_Object_Recognition.ipynb)
          - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
+
+**5. Featurization, Model Selection & Tuning**
+   - Covers Regression, Decision Trees, Feature Engineering
+      - **Project link:** [Feature Engineering Techniques](https://github.com/ramanks19/AIML-Projects/blob/main/05.%20Featurization%2C%20Model%20Selection%20%26%20Tuning/Project%205%20-%20FMST_Cement_Manufacturing.ipynb)
+        - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like Decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and Grid search were used to tune the parameters for the best model performance.
