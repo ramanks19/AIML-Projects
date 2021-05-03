@@ -40,3 +40,11 @@ $ cd AIML-Projects
 	* ***[Ensemble Classifiers](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/5.%20Ensemble.png)***
         * ***[Decision Tree Classifiers (With Pruning)](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/6.%20Decision%20Trees.png)***
 	* ***[Bagging (Tunned Parameters)](https://github.com/ramanks19/AIML-Projects/blob/main/03.%20Ensemble%20Techniques/images/7.%20Bagging.png)***
+
+**4. Unsupervised Machine Learning**
+   - Covers Support Vector Machines, Principal Component Analysis, Classification
+      - **Project link:** [Unsupervised Learning](https://github.com/ramanks19/AIML-Projects/blob/main/04.%20Unsupervised%20Machine%20Learning/Project%204%20-%20Unsupervised%20Learning_Object_Recognition.ipynb)
+         - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
+
+        * ***[Components explaninig 95% variance of Data](https://github.com/ramanks19/AIML-Projects/blob/main/04.%20Unsupervised%20Machine%20Learning/images/1.%2095%25%20variance%20of%20Data.png)***
+        * ***[SVM - With PCA](https://github.com/ramanks19/AIML-Projects/blob/main/04.%20Unsupervised%20Machine%20Learning/images/2.%20SVM%20-%20With%20PCA.png)***
